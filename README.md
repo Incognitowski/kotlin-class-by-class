@@ -20,3 +20,5 @@ The idea is to be as simple as possible, just hit the green arrow, and see what 
 ![img.png](_readme_resources/img.png)
 
 **Also, don't forget to debug the code for a better understanding 😉**
+
+### Of course, another great way to learn is from the [official Kotlin docs](https://kotlinlang.org/docs/home.html) 
